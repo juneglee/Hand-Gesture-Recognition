@@ -3,7 +3,7 @@ Hand Gesture Recognition
 
 # data preparation 
 1. Download [AUTSL](http://chalearnlap.cvc.uab.es/dataset/40/description/), [CSL/SLR500](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html), and [WLASL2000](https://dxli94.github.io/WLASL/) dataset following their instructions.
-2. Download [KO_SignLanguage](https://aihub.or.kr/aidata/7965) (AI_HUB - Sign Language Video)
+2. Download [KO_SignLanguage](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100) (AI_HUB - Sign Language Video)
 
 
 REFERENCE
